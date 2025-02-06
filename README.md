@@ -35,7 +35,7 @@ npm start
 ```
 
 ## Usage
-Navigate to `http://localhost:3000/` in your browser.
+Navigate to `http://localhost:5173/` in your browser.
 
 Browse through categories and view products.
 
