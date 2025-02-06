@@ -22,16 +22,16 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ecommerce-clothing.git
+git clone https://github.com/CodewithMK180105/E-commerce-Complete-Frontend-Using-React-JS.git
 
 # Navigate to the project folder
 cd ecommerce-clothing
 
 # Install dependencies
-npm install  # or yarn install
+npm install
 
 # Start the development server
-npm start  # or yarn start
+npm start 
 ```
 
 ## Usage
