@@ -22,13 +22,13 @@ Frontend: React.js, CSS
 
 ## Preview
 
-![Home Page](HomePage.png)
+![Home Page](screenshots/HomePage.png)
 
-![Mens Section](Mens.png)
+![Mens Section](screenshots/Mens.png)
 
-![Womens Section](Womens.png)
+![Womens Section](screenshots/Womens.png)
 
-![Cart Section](Cart.png)
+![Cart Section](screenshots/Cart.png)
 
 ## Installation
 
