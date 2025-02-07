@@ -1,0 +1,90 @@
+# E-commerce Clothing Website
+
+## Overview
+
+This is a fully responsive **E-commerce Clothing Website** built using **React.js and CSS**. The website features separate sections for **Men, Women, and Kids**, allowing users to explore and purchase clothing items seamlessly.
+
+## Features
+
+🔹 **Home Page** - Showcases featured products, trending collections, and promotional banners.
+
+🔹 **Category Pages** - Dedicated pages for **Men, Women, and Kids**, displaying relevant products.
+
+🔹 **Product Details Page** - Displays product images, descriptions, and prices.
+
+🔹 **Shopping Cart** - Allows users to add and remove items.
+
+🔹 **Responsive Design** - Ensures a seamless experience across all devices.
+
+## Tech Stack
+
+Frontend: React.js, CSS
+
+## Preview
+
+![Home Page](HomePage.png)
+
+![Mens Section](Mens.png)
+
+![Womens Section](Womens.png)
+
+![Cart Section](Cart.png)
+
+## Installation
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/CodewithMK180105/E-commerce-Complete-Frontend-Using-React-JS.git
+
+# Navigate to the project folder
+cd E-commerce-Complete-Frontend-Using-React-JS
+
+# Install dependencies
+npm install  # or yarn install
+
+# Start the development server
+npm start  # or yarn start
+```
+
+## Usage
+
+Navigate to `http://localhost:5173/` in your browser.
+
+Browse through categories and view products.
+
+Add items to the cart.
+
+## Folder Structure
+
+```
+📂 ecommerce
+ ├── 📂 src
+ │   ├── 📁 components      # Reusable UI components
+ │   ├── 📁 Context         # Global state management
+ │   ├── 📁 Pages           # React pages (Home, Categories, Product, Cart, etc.)
+ ├── 📁 public              # Static assets (images, icons, etc.)
+ ├── 📁 styles              # Global styles
+ ├── 📁 utils               # Helper functions (if any)
+ ├── package.json          # Project dependencies
+ ├── README.md             # Project documentation
+```
+
+## Contributing
+
+If you’d like to contribute:
+
+Fork the repository.
+
+Create a new branch (`feature-new`)
+
+Commit your changes.
+
+Push to the branch and create a Pull Request.
+
+## Contact
+
+For any queries or contributions, feel free to reach out: 📧 Email: [manishkumar180105@gmail.com](mailto\:manishkumar180105@gmail.com)\
+🔗 GitHub: [CodewithMK180105](https://github.com/CodewithMK180105)
+
